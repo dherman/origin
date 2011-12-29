@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>dherman's origin</title>
+<style type="text/css">
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  margin: 3em;
+}
+#contents {
+  margin: 100px auto;
+  width: 60%;
+  padding: 3em;
+  background: #eee;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  -o-border-radius: 0.8em;
+  -ms-border-radius: 0.8em;
+  border-radius: 0.8em;
+  -moz-box-shadow: 0 0 5px gray;
+  -webkit-box-shadow: 0 0 5px gray;
+  -o-box-shadow: 0 0 5px gray;
+  -ms-box-shadow: 0 0 5px gray;
+  box-shadow: 0 0 5px gray;
+}
+img {
+  margin: 0 4px;
+}
+p {
+  position: relative;
+  left: -4px;
+}
+a {
+  color: #5060ee;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<div id="contents">
+
+{{#each entries}}
+<h4>{{title}}</h4><p><img src="http://timshel.org/star.gif">{{#each bookmarks}} <a href="{{href}}">{{a}}</a> <img src="http://timshel.org/star.gif" width="12" height="12">{{/each}}</p>
+{{/each}}
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+{ "entries": [{
+    "title": "main",
+    "bookmarks": [
+        { "a": "Facebook", "href": "http://www.facebook.com" },
+        { "a": "Twitter", "href": "https://twitter.com/#!/i/connect" },
+        { "a": "Reader", "href": "http://www.google.com/reader" },
+        { "a": "Google+", "href": "http://plus.google.com" },
+        { "a": "LtU", "href": "http://lambda-the-ultimate.org/" },
+        { "a": "HN", "href": "http://news.ycombinator.com/" },
+        { "a": "Reddit", "href": "http://www.reddit.com/" },
+        { "a": "TechCrunch", "href": "http://techcrunch.com/" }
+    ]
+}, {
+    "title": "presences",
+    "bookmarks": [
+        { "a": "Calculist", "href": "http://calculist.org" },
+        { "a": "task.js", "href": "http://taskjs.org" },
+        { "a": "NU", "href": "http://www.ccs.neu.edu/home/dherman" },
+        { "a": "Timshel", "href": "http://timshel.org" }
+    ]
+}, {
+    "title": "work",
+    "bookmarks": [
+        { "a": "Calendar", "href": "http://calendar.google.com" },
+        { "a": "Zimbra", "href": "https://mail.mozilla.com/zimbra/" },
+        { "a": "TripIt", "href": "http://www.tripit.com" },
+        { "a": "Analytics", "href": "http://www.google.com/analytics" },
+        { "a": "Bugzilla", "href": "http://bugzilla.mozilla.org" },
+        { "a": "Harmony", "href": "http://wiki.ecmascript.org/doku.php?id=harmony:proposals" },
+        { "a": "WriteRAP", "href": "http://writerap.pearson.com" }
+    ]
+}, {
+    "title": "admin",
+    "bookmarks": [
+        { "a": "Modwest", "href": "https://my.modwest.com/" },
+        { "a": "Linode", "href": "https://www.linode.com/members/linode/" },
+        { "a": "BofA", "href": "http://www.bankofamerica.com/" },
+        { "a": "CapitalOne", "href": "https://servicing.capitalone.com/c1/login.aspx" }
+    ]
+}]
+}
