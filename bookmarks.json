@@ -7,7 +7,7 @@
         { "a": "Google+", "href": "http://plus.google.com" },
         { "a": "LtU", "href": "http://lambda-the-ultimate.org/" },
         { "a": "HN", "href": "http://news.ycombinator.com/" },
-        { "a": "Reddit", "href": "http://www.reddit.com/" },
+        { "a": "Reddit", "href": "http://www.reddit.com/r/programming/" },
         { "a": "TechCrunch", "href": "http://techcrunch.com/" }
     ]
 }, {
