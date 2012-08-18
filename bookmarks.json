@@ -8,13 +8,15 @@
         { "a": "LtU", "href": "http://lambda-the-ultimate.org/" },
         { "a": "HN", "href": "http://news.ycombinator.com/" },
         { "a": "Reddit", "href": "http://www.reddit.com/r/programming/" },
-        { "a": "TechCrunch", "href": "http://techcrunch.com/" }
+        { "a": "ReadWriteWeb", "href": "http://readwriteweb.com/" }
     ]
 }, {
     "title": "presences",
     "bookmarks": [
         { "a": "Calculist", "href": "http://calculist.org" },
         { "a": "task.js", "href": "http://taskjs.org" },
+        { "a": "sweet.js", "href": "http://sweetjs.org" },
+        { "a": "Effective JS", "href": "http://effectivejs.com" },
         { "a": "NU", "href": "http://www.ccs.neu.edu/home/dherman" },
         { "a": "Timshel", "href": "http://timshel.org" }
     ]
