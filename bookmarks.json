@@ -37,7 +37,8 @@
         { "a": "Modwest", "href": "https://my.modwest.com/" },
         { "a": "Linode", "href": "https://www.linode.com/members/linode/" },
         { "a": "BofA", "href": "http://www.bankofamerica.com/" },
-        { "a": "CapitalOne", "href": "https://servicing.capitalone.com/c1/login.aspx" }
+        { "a": "CapitalOne", "href": "https://servicing.capitalone.com/c1/login.aspx" },
+        { "a": "Property", "href": "https://www.propertyware.com/pw/portals/rpmboston/owner.action" }
     ]
 }]
 }
