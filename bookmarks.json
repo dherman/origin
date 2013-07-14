@@ -3,17 +3,18 @@
     "bookmarks": [
         { "a": "Facebook", "href": "http://www.facebook.com" },
         { "a": "Twitter", "href": "https://twitter.com/#!/i/connect" },
-        { "a": "Reader", "href": "http://www.google.com/reader" },
-        { "a": "Google+", "href": "http://plus.google.com" },
-        { "a": "LtU", "href": "http://lambda-the-ultimate.org/" },
+        { "a": "TweetDeck", "href": "https://web.tweetdeck.com" },
+        { "a": "Newsblur", "href": "http://newsblur.com" },
         { "a": "HN", "href": "http://news.ycombinator.com/" },
-        { "a": "Reddit", "href": "http://www.reddit.com/r/programming/" },
+        { "a": "Proggit", "href": "http://www.reddit.com/r/programming/" },
+        { "a": "Rustit", "href": "http://www.reddit.com/r/rust/" },
         { "a": "ReadWriteWeb", "href": "http://readwriteweb.com/" }
     ]
 }, {
     "title": "presences",
     "bookmarks": [
         { "a": "Calculist", "href": "http://calculist.org" },
+        { "a": "asm.js", "href": "http://asmjs.org" },
         { "a": "task.js", "href": "http://taskjs.org" },
         { "a": "sweet.js", "href": "http://sweetjs.org" },
         { "a": "Effective JS", "href": "http://effectivejs.com" },
@@ -25,11 +26,11 @@
     "bookmarks": [
         { "a": "Calendar", "href": "http://calendar.google.com" },
         { "a": "Zimbra", "href": "https://mail.mozilla.com/zimbra/" },
+        { "a": "Phonebook", "href": "https://intranet.mozilla.org/phonebook" },
+        { "a": "Intranet", "href": "https://intranet.mozilla.org" },
         { "a": "TripIt", "href": "http://www.tripit.com" },
         { "a": "Analytics", "href": "http://www.google.com/analytics" },
-        { "a": "Bugzilla", "href": "http://bugzilla.mozilla.org" },
-        { "a": "Harmony", "href": "http://wiki.ecmascript.org/doku.php?id=harmony:proposals" },
-        { "a": "WriteRAP", "href": "http://writerap.pearson.com" }
+        { "a": "Bugzilla", "href": "http://bugzilla.mozilla.org" }
     ]
 }, {
     "title": "admin",
