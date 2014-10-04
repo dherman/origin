@@ -8,7 +8,8 @@
         { "a": "HN", "href": "http://news.ycombinator.com/" },
         { "a": "Proggit", "href": "http://www.reddit.com/r/programming/" },
         { "a": "Rustit", "href": "http://www.reddit.com/r/rust/" },
-        { "a": "ReadWriteWeb", "href": "http://readwriteweb.com/" }
+        { "a": "ReadWriteWeb", "href": "http://readwriteweb.com/" },
+        { "a": "Verge", "href": "http://theverge.com" }
     ]
 }, {
     "title": "presences",
