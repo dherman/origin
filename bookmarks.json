@@ -31,6 +31,7 @@
         { "a": "Gmail", "href": "http://sso.mozilla.com/gmail" },
         { "a": "Phonebook", "href": "https://intranet.mozilla.org/phonebook" },
         { "a": "Intranet", "href": "https://intranet.mozilla.org" },
+        { "a": "Workday", "href": "https://www.myworkday.com/vhr_mozilla" },
         { "a": "TripIt", "href": "http://www.tripit.com" },
         { "a": "Analytics", "href": "http://www.google.com/analytics" },
         { "a": "Bugzilla", "href": "http://bugzilla.mozilla.org" }
